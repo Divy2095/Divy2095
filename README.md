@@ -33,8 +33,8 @@ I'm currently an ICT engineering Student<br>I'm looking to collaborate on some p
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Hello World!, I'm Divy 👋🏼:
+👨🏼‍🎓 I'm an ICT engineering student <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divy2095/Divy2095/output/github-snake-dark.svg" />
