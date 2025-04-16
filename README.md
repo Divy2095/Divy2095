@@ -7,8 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building full-stack applications, exploring modern tech stacks, and contributing to open-source projects.  
-Currently diving deep into the **MERN stack**, solving real-world problems with code, and always learning something new. 🚀
+I'm a passionate developer specializing in web development, with a focus on building dynamic and responsive web applications. I enjoy solving real-world problems with efficient, scalable code and continuously expanding my expertise in frontend and backend technologies. Currently deepening my skills in JavaScript, React, and Node.js, while staying updated with the latest industry trends. Always eager to learn and embrace new challenges. 🚀
 
 ---
 
@@ -36,17 +35,11 @@ Currently diving deep into the **MERN stack**, solving real-world problems with 
 
 ---
 
-## 📈 GitHub Stats
-
-![Meet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeetBera&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeetBera&layout=compact&theme=radical)
-
----
 
 ## 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/meet-bera/)
-- 💻 [GitHub](https://github.com/MeetBera)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/divy-dedaniya-a9aab1323/)
+- 💻 [GitHub](https://github.com/Divy2095)
 
 ---
 
