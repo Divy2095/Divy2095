@@ -13,7 +13,7 @@
 
 ## 🛠️ Projects
 
-### [Git-VScode](https://github.com/Divy2095/Git-VScode)
+### [Foodie](https://github.com/Divy2095/Git-VScode)
 A minimalist food delivery website built with **HTML, CSS, JavaScript**, and integrated with **Firebase**.
 
 ## ✨ About Me
