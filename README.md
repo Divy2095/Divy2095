@@ -2,7 +2,7 @@
 
 - 🎓 3rd year student in Information and Communication Technology
 - 💻 Passionate Programmer & Lifelong Learner
-- 🌱 Currently exploring full-stack development
+- 🌱 Currently learning full-stack development & exploring Cloud DevOps
 
 ## 🚀 Tech Stack
 
