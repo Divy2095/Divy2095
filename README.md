@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Divy2095
+# 👋 Hi, I’m Divy Dedaniya
 
 - 🎓 3rd year student in Information and Communication Technology
 - 💻 Passionate Programmer & Lifelong Learner
