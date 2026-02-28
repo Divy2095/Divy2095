@@ -6,10 +6,10 @@
 
 ## 🚀 Tech Stack
 
-- Languages: **C, C++, Python, HTML, CSS, JavaScript**
-- Frameworks & Libraries: **React, Express, Tailwind**
+- Languages: **C, C++, C#, Python, HTML, CSS, JavaScript, Bash**
+- Frameworks & Libraries: **React, Express, Tailwind, .NET, NodeJS**
 - Database: **MongoDB**
-- Tools: **VS Code, Git**
+- Tools: **VS Code, Git, PostMan, Linux**
 
 ## 🛠️ Projects
 
