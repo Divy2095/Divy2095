@@ -9,7 +9,7 @@
 - Languages: **C, C++, C#, Python, HTML, CSS, JavaScript, Bash**
 - Frameworks & Libraries: **React, Express, Tailwind, .NET, NodeJS**
 - Database: **MongoDB**
-- Tools: **VS Code, Git, PostMan, Linux**
+- Tools: **VS Code, Git, PostMan, Linux, Vim**
 
 ## 🛠️ Projects
 
