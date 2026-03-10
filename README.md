@@ -20,6 +20,7 @@ A minimalist food delivery website built with **HTML, CSS, JavaScript**, and int
 
 Creative and minimalist developer who loves coding, solving problems, and building cool things.
 
+![My GitHub Game](game.gif)
 <!--
 Feel free to connect or check out my repositories!
 -->
