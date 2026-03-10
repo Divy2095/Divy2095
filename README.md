@@ -20,7 +20,7 @@ A minimalist food delivery website built with **HTML, CSS, JavaScript**, and int
 
 Creative and minimalist developer who loves coding, solving problems, and building cool things.
 
-![My GitHub Game](game.gif)
+![My GitHub Game](https://raw.githubusercontent.com/Divy2095/Divy2095/main/game.gif)
 <!--
 Feel free to connect or check out my repositories!
 -->
